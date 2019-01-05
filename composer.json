@@ -1,5 +1,5 @@
 {
-    "name": "webburza/sylius-article-bundle",
+    "name": "coderiekelt/sylius-article-bundle",
     "description": "Article bundle for Sylius e-commerce platform.",
     "type": "symfony-bundle",
     "license": "MIT",
